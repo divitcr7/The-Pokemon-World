@@ -1,8 +1,7 @@
 # Project Photos
 | | |
 |:-------------------------:|:-------------------------:|
-|![Image 1]  (<img width="1733" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/8eb8ef38-68ad-4cfa-bbc2-d5225c7312db">)
-|![Image 2] (<img width="1722" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/1ebf6cd2-11b9-49ad-b83b-2b0a77a17d53">)|
+|![Image 1]  <img width="1733" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/8eb8ef38-68ad-4cfa-bbc2-d5225c7312db"> |![Image 2] <img width="1722" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/1ebf6cd2-11b9-49ad-b83b-2b0a77a17d53">|
 | | |
 |![Image 3](paste your image here)|![Image 4](paste your image here)|
 ## Pokemon Data

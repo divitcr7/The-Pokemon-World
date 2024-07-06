@@ -1,9 +1,10 @@
 # Project Photos
 | | |
 |:-------------------------:|:-------------------------:|
-|![Image 1]  <img width="1733" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/8eb8ef38-68ad-4cfa-bbc2-d5225c7312db"> |![Image 2] <img width="1722" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/1ebf6cd2-11b9-49ad-b83b-2b0a77a17d53">|
+| <img width="1733" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/8eb8ef38-68ad-4cfa-bbc2-d5225c7312db"> | <img width="1722" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/1ebf6cd2-11b9-49ad-b83b-2b0a77a17d53">|
 | | |
-|![Image 3](paste your image here)|![Image 4](paste your image here)|
+|<img width="1713" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/fffbde37-af02-410d-8170-1ba75eae389d"> |<img width="1729" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/0fe80153-159a-40c8-bd90-3d164a578e4b">
+|
 ## Pokemon Data
 
 All Pokemon data used in this project comes from [PokeAPI GraphQL Beta](https://pokeapi.co/docs/graphql).  

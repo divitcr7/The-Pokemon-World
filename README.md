@@ -4,7 +4,10 @@
 | <img width="1733" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/8eb8ef38-68ad-4cfa-bbc2-d5225c7312db"> | <img width="1722" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/1ebf6cd2-11b9-49ad-b83b-2b0a77a17d53">|
 | | |
 |<img width="1713" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/fffbde37-af02-410d-8170-1ba75eae389d"> |<img width="1729" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/0fe80153-159a-40c8-bd90-3d164a578e4b">
-|
+| | |
+| <img width="1729" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/cbb75b60-e03b-426a-85bb-853e84a1893d"> | <img width="1734" alt="image" src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/cb469f79-0c04-4444-861c-a2287975fd8f">
+
+
 ## Pokemon Data
 
 All Pokemon data used in this project comes from [PokeAPI GraphQL Beta](https://pokeapi.co/docs/graphql).  

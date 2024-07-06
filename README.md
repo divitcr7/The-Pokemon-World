@@ -1,13 +1,21 @@
-# Pokemon Awesome
-
-![Pokemon Awesome thumbnail](./public/images/pokemon-catcher-catching.gif)
+# Project Photos
+<table>
+  <tr>
+    <td><img src="<src="https://github.com/divitcr7/Theo-Pokemon-World/assets/67183559/7c783963-21a2-4ce6-a024-18b9d523283d" width="300px"></td>
+    <td><img src="path/to/image2.jpg" width="300px"></td>
+  </tr>
+  <tr>
+    <td><img src="path/to/image3.jpg" width="300px"></td>
+    <td><img src="path/to/image4.jpg" width="300px"></td>
+  </tr>
+</table>
 
 ## Pokemon Data
 
 All Pokemon data used in this project comes from [PokeAPI GraphQL Beta](https://pokeapi.co/docs/graphql).  
 Playground: https://beta.pokeapi.co/graphql/console/
 
-All Pokemon images (artwork) comes from https://github.com/PokeAPI/sprites
+All Pokemon images (artwork) comes from https://github.com/PokeAPI/sprites.
 
 ## Getting Started
 
